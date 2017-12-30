@@ -1,0 +1,35 @@
+No prepare_destruct
+
+secure/login.c
+secure/login#0
+31
+Bad argument 1 to capitalize()
+
+cmds/say.c
+cmds/say
+23
+Bad argument 1 to capitalize()
+
+cmds/say.c
+cmds/say
+24
+Error in loading object
+
+obj/player/player.c
+obj/player/player#1
+55
+Illegal path: /
+
+cmds/ls.c
+cmds/ls
+7
+Illegal path: /
+
+cmds/ls.c
+cmds/ls
+7
+cmds/ls:cmds/ls.c:7
+Illegal path: /
+
+cmds/ls:cmds/ls.c:7
+Illegal path: /
